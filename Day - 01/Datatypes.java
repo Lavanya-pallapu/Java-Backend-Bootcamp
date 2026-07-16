@@ -6,7 +6,7 @@ public class Datatypes{
         char grade = 'A';
         double cgpa = 7.0;
         float percentage = 70.0f;
-        boolean passed = true;
+        boolean passed = true;e
         short year = 2026;
         long mobile_no = 9243556522L;
         int salary = 50000;
