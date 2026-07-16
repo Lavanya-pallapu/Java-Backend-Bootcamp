@@ -6,7 +6,7 @@ public class LogicalOperators {
         boolean haslicense = true;        
 
         System.out.println(a >=18 && haslicense);
-        System.out.println(a <=18  || haslicense);
+        System.out.println(a <=18 || haslicense);
         System.out.println(!haslicense);
         
     }
