@@ -14,7 +14,7 @@ public class ScannerDemo {
         
         System.out.print("Enter your Branch : ");
         String branch = sc.nextLine();
-        sc.nextLine()
+        sc.nextLine();
         
         System.out.print("Enter your Age : ");
         int rollnumber = sc.nextInt();
